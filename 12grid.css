@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 
-/* 12 column playout */
+/* 12 column layout */
 
 .row{
     display: flex;
@@ -13,6 +13,7 @@
     flex: 0 0 auto;
     flex-direction: row;
 }
+
 
 /* columns size */
 
