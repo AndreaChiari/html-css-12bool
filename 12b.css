@@ -1,0 +1,43 @@
+
+[class^=col-]{
+    background-color: lightblue;
+    margin: 2px;
+    text-align: center;
+    height: 3rem;
+}
+
+/* utilities */
+
+.row > div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.flex{
+    display: flex;
+}
+
+.padding20{
+    padding:20px;
+}
+
+.bgcolorgreen{
+    background-color: green;
+}
+
+.mb20{
+    margin-bottom: 20px;
+}
+
+.height6{
+    height: 6rem;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.align-center{
+    align-items: center;
+}
